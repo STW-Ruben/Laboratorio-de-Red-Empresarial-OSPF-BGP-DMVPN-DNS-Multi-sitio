@@ -1,0 +1,4 @@
+zone "popular.com.do" {
+        type master;
+        file "/etc/bind/db.popular.com.do";
+};
