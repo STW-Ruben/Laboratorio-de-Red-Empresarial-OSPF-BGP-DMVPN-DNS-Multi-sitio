@@ -33,5 +33,5 @@ DHCP dual-stack por VLAN, port-security, DHCP snooping + ARP inspection, VTP en 
 ## ✅ Resultado
 Una red convergida y resiliente: **un solo punto de salida a Internet compartido entre sucursales**, DMVPN como transporte cifrado principal con un **túnel site-to-site de contingencia entre STI y PUJ**, resolución de nombres centralizada y alta disponibilidad de enrutamiento con OSPF+BGP. Laboratorio probado y validado con capturas de tráfico y pruebas funcionales end-to-end.
 
----
-*#Networking #CiscoIOS #BGP #OSPF #DMVPN #DNS #IPv6 #Ciberseguridad #InfraestructuraDeRed*
+<img width="1917" height="1031" alt="Screenshot 2026-08-16 142603" src="https://github.com/user-attachments/assets/84cf817b-b1e9-43db-91e7-f16f0de6cdd3" />
+
